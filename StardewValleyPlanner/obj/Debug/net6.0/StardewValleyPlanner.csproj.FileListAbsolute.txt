@@ -1,0 +1,8 @@
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/bin/Debug/net6.0/StardewValleyPlanner.deps.json
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/bin/Debug/net6.0/StardewValleyPlanner.dll
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.csproj.AssemblyReference.cache
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.AssemblyInfoInputs.cache
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.AssemblyInfo.cs
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.csproj.CoreCompileInputs.cache
+/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/obj/Debug/net6.0/StardewValleyPlanner.dll
