@@ -1,0 +1,10 @@
+{
+    "Name": "Stardew Valley Planner",
+    "Author": "Stone Maguire",
+    "Version": "1.0.0",
+    "Description": "A planner to help with perfection.",
+    "UniqueID": "stone.stardewvalleyplanner",
+    "EntryDll": "StardewValleyPlanner.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+  }

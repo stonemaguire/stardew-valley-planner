@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BrGh5MyuR/qlyLGS5BE754O3zwer4c6XJZWoRW7HV32H6rtyjkIiReS5E1sFzrwb6x6U145Z9ILI3QPC5gnacw==",
+  "dgSpecHash": "CHR/w5TF7fpcZI2EgXZ4UjRAcm67CqCSB/ZdXIun6BZSUOIXb0ToaI2avQyKrKWhGerNB4dzdKmO4CNjDOvpYA==",
   "success": true,
   "projectFilePath": "/Users/stone/Documents/github/StardewValleyPlanner/StardewValleyPlanner/StardewValleyPlanner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/stone/.nuget/packages/pathoschild.stardew.modbuildconfig/4.3.2/pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

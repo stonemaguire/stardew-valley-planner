@@ -1,11 +1,41 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Pathoschild.Stardew.ModBuildConfig/4.3.2": {
+        "type": "package",
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Pathoschild.Stardew.ModBuildConfig/4.3.2": {
+      "sha512": "wRnRRTgB84YPyNIGFpI12Gdjfwery/JTgRbTboG0uJK5VJsuQ2VWT4fS4bcvPgOKMK8lqYyqxV7sEq7zgd60gQ==",
+      "type": "package",
+      "path": "pathoschild.stardew.modbuildconfig/4.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/SMAPI.ModBuildConfig.Analyzer.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/Pathoschild.Stardew.ModBuildConfig.targets",
+        "build/SMAPI.ModBuildConfig.dll",
+        "build/SMAPI.Toolkit.CoreInterfaces.dll",
+        "build/SMAPI.Toolkit.dll",
+        "build/find-game-folder.targets",
+        "images/icon.png",
+        "mod-package.md",
+        "pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512",
+        "pathoschild.stardew.modbuildconfig.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Pathoschild.Stardew.ModBuildConfig >= 4.3.2"
+    ]
   },
   "packageFolders": {
     "/Users/stone/.nuget/packages/": {}
@@ -43,6 +73,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Pathoschild.Stardew.ModBuildConfig": {
+            "target": "Package",
+            "version": "[4.3.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
